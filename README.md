@@ -1,4 +1,4 @@
-# BÀI THỰC HÀNH: SO SÁNH CÁC CÔNG CỤ SOẠN THẢO VĂN BẢN 
+# Cuộc chiến soạn thảo văn bản|Dự án 2: Phân tích so sánh các công cụ CNTT|Nhóm 04
 **(Microsoft Word vs Google Docs vs LaTeX)**
 
 
