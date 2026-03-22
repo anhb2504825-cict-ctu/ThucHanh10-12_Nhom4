@@ -25,9 +25,9 @@ Dựa trên phân công công việc, dưới đây là các tài liệu sẽ đ
 
 | Tên File / Thư mục | Phụ trách | Mô tả nội dung |
 | :--- | :--- | :--- |
-| `DanY_DanhSachCongCu.docx` | Khánh Như | BÁO CÁO SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN by KHÁNH NHƯ |
-| `DanhGia_CRAAP.xlsx` | Hoàng Phi | BẢNG ĐÁNH GIÁ NGUỒN THÔNG TIN by HOÀNG PHI |
-| `BaoCao_SoSanhCongCu.pdf` | Đức Anh | BÁO CÁO PHẢN ẢNH DỰ ÁN by ĐỨC ANH |
-| `Slide_ThuyetTrinh.pptx` | Thiên Thức | SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN by THUC |
+| `BÁO CÁO SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN by KHÁNH NHƯ` | Khánh Như | BÁO CÁO SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN |
+| `BẢNG ĐÁNH GIÁ NGUỒN THÔNG TIN by HOÀNG PHI` | Hoàng Phi | BẢNG ĐÁNH GIÁ NGUỒN THÔNG TIN |
+| `BÁO CÁO PHẢN ẢNH DỰ ÁN by ĐỨC ANH` | Đức Anh | BÁO CÁO PHẢN ẢNH DỰ ÁN |
+| `SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN by THUC` | Thiên Thức | SILE THUYẾT TRÌNH SO SÁNH CÔNG CỤ SOẠN THẢO VĂN BẢN by THUC |
 
 *(Lưu ý: Video minh họa của thành viên Đức Anh vui lòng xem qua đường link được đính kèm trong file Báo cáo hoặc đính kèm tại đây [[https://youtu.be/JjF1gd1CHyQ?si=pPJ5B8fT9t63NbLT]).*
