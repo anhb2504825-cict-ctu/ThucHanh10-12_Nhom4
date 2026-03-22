@@ -1,10 +1,6 @@
 # BÀI THỰC HÀNH: SO SÁNH CÁC CÔNG CỤ SOẠN THẢO VĂN BẢN 
 **(Microsoft Word vs Google Docs vs LaTeX)**
 
-## 👥 Thông tin Nhóm
-* **Lớp:** Hệ Thống Thông Tin 02 (HTTT02) - Khóa 51
-* **Ngành:** Hệ Thống Thông Tin
-* **Trường:** Công nghệ Thông tin và Truyền thông (CICT) - Đại học Cần Thơ
 
 **Bảng phân công nhiệm vụ:**
 
